@@ -1,5 +1,5 @@
 
-library pull_to_refresh;
+library pull_to_refresh_new;
 
 export 'src/smart_refresher.dart';
 export 'src/indicator/classic_indicator.dart';
