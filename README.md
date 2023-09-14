@@ -1,5 +1,5 @@
-# flutter_pulltorefresh
-<a href="https://pub.dev/packages/pull_to_refresh">
+# flutter_pull_to_refresh
+<a href="https://pub.dev/packages/pull_to_refresh_new">
   <img src="https://img.shields.io/pub/v/pull_to_refresh.svg"/>
 </a>
 <a href="https://flutter.dev/">
@@ -10,7 +10,7 @@
 </a>
 
 ## Intro
-a widget provided to the flutter scroll component drop-down refresh and pull up load.support android and ios.
+a widget provided to the flutter scroll component drop-down refresh and pull up load.support android , ios and web.
 If you are Chinese,click here([中文文档](https://github.com/ssh199956/pull_to_refresh_new/blob/master/README_CN.md))
 
 
@@ -26,6 +26,13 @@ If you are Chinese,click here([中文文档](https://github.com/ssh199956/pull_t
 * provide more refreshStyle: Behind,Follow,UnFollow,Front,provide more loadmore style
 * Support twoLevel refresh,implments just like TaoBao twoLevel,Wechat TwoLevel
 * enable link indicator which placing other place,just like Wechat FriendCircle refresh effect
+
+## As shown in the figure below:
+* Welcome to my personal website：https://www.sshlearning.cn
+* Welcome to my github and invite you to build more：https://github.com/ssh199956
+* Welcome to my personal blog：https://blog.sshlearning.cn
+* Welcome to follow my document content：https://data.sshlearning.cn
+* Welcome to the static e-commerce website made during my study：https://shenfeng.sshlearning.cn
 
 ## Usage
 

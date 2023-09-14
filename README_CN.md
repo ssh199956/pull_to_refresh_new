@@ -1,5 +1,5 @@
-# flutter_pulltorefresh
-<a href="https://pub.dev/packages/pull_to_refresh">
+# flutter_pull_to_refresh
+<a href="https://pub.dev/packages/pull_to_refresh_new">
   <img src="https://img.shields.io/pub/v/pull_to_refresh.svg"/>
 </a>
 <a href="https://flutter.dev/">
@@ -25,6 +25,12 @@
 * 提供多种刷新指示器风格:跟随,不跟随,位于背部,位于前部, 提供多种加载更多风格
 * 提供二楼刷新,可实现类似淘宝二楼,微信二楼,携程二楼
 * 允许关联指示器存放在Viewport外部,即朋友圈刷新效果
+
+## 关注
+* Welcome to my personal website：https://www.sshlearning.cn
+* Welcome to my github and invite you to build more：https://github.com/ssh199956
+* Welcome to my personal blog：https://blog.sshlearning.cn
+* Welcome to follow my document content：https://data.sshlearning.cn
 
 ## 用法
 
