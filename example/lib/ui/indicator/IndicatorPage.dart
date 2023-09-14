@@ -1,8 +1,3 @@
-/*
- * Author: Jpeng
- * Email: peng8350@gmail.com
- * Time: 2019/5/5 下午6:07
- */
 
 import 'package:flutter/material.dart';
 import 'package:pull_to_refresh_new/pull_to_refresh.dart';

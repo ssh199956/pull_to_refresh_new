@@ -1,8 +1,3 @@
-/*
- * Author: Jpeng
- * Email: peng8350@gmail.com
- * Time:  2019-08-02 19:20
- */
 
 import 'package:flutter/animation.dart';
 import 'package:flutter/cupertino.dart';

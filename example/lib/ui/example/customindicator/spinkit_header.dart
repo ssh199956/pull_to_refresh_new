@@ -1,8 +1,3 @@
-/*
- * Author: Jpeng
- * Email: peng8350@gmail.com
- * Time:  2019-06-25 14:21
- */
 
 /*
    here,I use SpinKit as a

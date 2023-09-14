@@ -1,8 +1,3 @@
-/*
- * Author: Jpeng
- * Email: peng8350@gmail.com
- * Time: 2019/5/4 下午9:49
- */
 
 import 'package:flutter/widgets.dart';
 import '../internals/indicator_wrap.dart';

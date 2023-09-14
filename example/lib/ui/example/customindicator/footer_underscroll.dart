@@ -1,8 +1,3 @@
-/*
- * Author: Jpeng
- * Email: peng8350@gmail.com
- * Time:  2019-08-31 10:58
- */
 
 // convert footer to header to use ,behaviour almost same with header
 

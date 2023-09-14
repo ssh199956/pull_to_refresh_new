@@ -1,8 +1,3 @@
-/*
- * Author: Jpeng
- * Email: peng8350@gmail.com
- * Time: 2019/5/5 下午2:37
- */
 
 import 'dart:async';
 import 'package:flutter/material.dart'

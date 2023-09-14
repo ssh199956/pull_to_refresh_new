@@ -1,8 +1,4 @@
-/*
- * Author: Jpeng
- * Email: peng8350@gmail.com
- * Time:  2019-06-24 17:21
- */
+
 import 'package:example/ui/example/customindicator/footer_underscroll.dart';
 import 'package:example/ui/example/customindicator/shimmer_indicator.dart';
 import 'package:example/ui/example/useStage/force_full_one_page.dart';

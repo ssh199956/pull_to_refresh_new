@@ -1,8 +1,3 @@
-/*
- * Author: Jpeng
- * Email: peng8350@gmail.com
- * Time:  2019-06-26 13:28
- */
 
 /*
    use to place indicator to other places,such as WeChat friend circle refresh effect

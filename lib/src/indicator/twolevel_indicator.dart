@@ -1,8 +1,3 @@
-/*
- * Author: Jpeng
- * Email: peng8350@gmail.com
- * Time:  2019-08-29 09:41
- */
 
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';

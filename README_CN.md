@@ -40,7 +40,7 @@
 
    dependencies:
 
-    pull_to_refresh: ^2.0.1
+    pull_to_refresh_new: ^2.0.4
 
 
 ```

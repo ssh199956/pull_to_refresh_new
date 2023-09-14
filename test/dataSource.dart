@@ -1,8 +1,3 @@
-/*
-    Author: Jpeng
-    Email: peng8350@gmail.com
-    createTime: 2019-07-20 20:57
- */
 
 const List<String> data = [
   "data1",

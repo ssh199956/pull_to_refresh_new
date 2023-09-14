@@ -1,8 +1,3 @@
-/*
-    Author: Jpeng
-    Email: peng8350@gmail.com
-    createTime: 2019-07-21 12:29
- */
 
 import 'package:flutter/widgets.dart';
 import 'package:flutter_test/flutter_test.dart';

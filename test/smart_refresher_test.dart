@@ -1,8 +1,3 @@
-/*
-    Author: Jpeng
-    Email: peng8350@gmail.com
-    createTime: 2019-07-20 22:15
- */
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/rendering.dart';

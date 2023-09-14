@@ -1,8 +1,3 @@
-/*
- * Author: Jpeng
- * Email: peng8350@gmail.com
- * Time: 2019/5/3 下午6:13
- */
 
 import 'package:flutter/material.dart';
 import 'package:residemenu/residemenu.dart';

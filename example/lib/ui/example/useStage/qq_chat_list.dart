@@ -1,8 +1,4 @@
-/*
- * Author: Jpeng
- * Email: peng8350@gmail.com
- * Time:  2019-07-11 17:55
- */
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:pull_to_refresh_new/pull_to_refresh.dart';

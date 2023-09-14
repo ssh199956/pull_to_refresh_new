@@ -1,8 +1,3 @@
-/*
-    Author: Jpeng
-    Email: peng8350@gmail.com
-    createTime:2018-05-01 11:39
-*/
 
 import 'package:flutter/gestures.dart';
 import 'package:flutter/physics.dart';

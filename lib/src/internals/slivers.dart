@@ -1,8 +1,3 @@
-/*
- * Author: Jpeng
- * Email: peng8350@gmail.com
- * Time: 2019/5/2 下午5:09
- */
 
 import 'package:flutter/widgets.dart';
 import 'dart:math' as Math;
