@@ -1,3 +1,8 @@
+## 2.0.5
+### Breaking Changes:
+* none
+* somethings fixed.
+
 ## 2.0.4
 ### Breaking Changes:
 * none

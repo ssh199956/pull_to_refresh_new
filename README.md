@@ -42,7 +42,7 @@ add this line to pubspec.yaml
 
 dependencies:
 
- pull_to_refresh_new: ^2.0.4
+ pull_to_refresh_new: ^2.0.5
 
 
 ```
